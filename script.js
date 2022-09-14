@@ -1,5 +1,5 @@
-const username = '2KAbhishek';
-const maxPages = 2;
+const username = 'darkwhite220';
+const maxPages = 1;
 const hideForks = true;
 const repoList = document.querySelector('.repo-list');
 const reposSection = document.querySelector('.repos');
